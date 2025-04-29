@@ -1,0 +1,1 @@
+select * from online_sales;
